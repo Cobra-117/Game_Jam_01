@@ -1,6 +1,6 @@
 # Game_Jam_01
 Epitech Game Jam Mars 2020
-We were 6 and we had 2 days to create a game. The theme was the street-art.
+We were a group of 6 and we had 2 days to create a game. The theme was the street-art.
 
 ##How to play##
 Go to the "build" folder and launch "Jam.exe"
